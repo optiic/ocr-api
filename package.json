@@ -1,0 +1,26 @@
+{
+  "name": "optiic-ocr-api",
+  "version": "1.0.0",
+  "description": "OCR API a free REST API to extract text from images and convert scans to searchable PDFs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ocr",
+    "ocr-api",
+    "optical-character-recognition",
+    "text-extraction",
+    "api",
+    "rest-api",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Optiic",
+  "license": "ISC",
+  "homepage": "https://optiic.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optiic/ocr-api.git"
+  }
+}
